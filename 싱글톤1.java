@@ -20,7 +20,6 @@ class Soojebi {
     }
 }
 
-// 파일명: Soojebi2.java
 class Soojebi2 {
     public static void main(String[] args) {
         Soojebi s1 = Soojebi.get(); // 여기서 Soojebi 인스턴스 생성 
